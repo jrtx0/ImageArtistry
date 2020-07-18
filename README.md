@@ -10,7 +10,7 @@ Cartoonise and Handpainted your image.
 ```
   https://github.com/jrtx0/ImgArtistry.git
 ```
-* Import project into Pycharm or directly run **main.py** in terminal:
+* Import project into pycharm or directly run **main.py** in terminal:
 ```
   python3 main.py
 ```
