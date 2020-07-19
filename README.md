@@ -1,4 +1,4 @@
-# ImgArtistry
+# ImageArtistry
 Cartoonise and Handpainted image.
 
 ### Demo
