@@ -1,5 +1,5 @@
 # ImgArtistry
-Cartoonise and Handpainted your image.
+Cartoonise and Handpainted image.
 
 ### Demo
 ![Cartoonise](https://github.com/jrtx0/ImgArtistry/blob/master/cartoonise_旅途.jpeg)
